@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\muzik uygulama\muzik uygulama\bin\Debug\muzik uygulama.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\muzik uygulama\muzik uygulama\bin\Debug\muzik uygulama.exe
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\muzik uygulama\muzik uygulama\bin\Debug\muzik uygulama.pdb
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\muzik uygulama\muzik uygulama\obj\Debug\muzik uygulama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\muzik uygulama\muzik uygulama\obj\Debug\muzik uygulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\muzik uygulama\muzik uygulama\obj\Debug\muzik_uygulama.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\muzik uygulama\muzik uygulama\obj\Debug\muzik uygulama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\muzik uygulama\muzik uygulama\obj\Debug\muzik uygulama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\muzik uygulama\muzik uygulama\obj\Debug\muzik uygulama.exe
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\muzik uygulama\muzik uygulama\obj\Debug\muzik uygulama.pdb
